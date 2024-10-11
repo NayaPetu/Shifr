@@ -1,0 +1,14 @@
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\bin\Debug\net8.0\startC.exe
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\bin\Debug\net8.0\startC.deps.json
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\bin\Debug\net8.0\startC.runtimeconfig.json
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\bin\Debug\net8.0\startC.dll
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\bin\Debug\net8.0\startC.pdb
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\obj\Debug\net8.0\startC.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\obj\Debug\net8.0\startC.AssemblyInfoInputs.cache
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\obj\Debug\net8.0\startC.AssemblyInfo.cs
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\obj\Debug\net8.0\startC.csproj.CoreCompileInputs.cache
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\obj\Debug\net8.0\startC.dll
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\obj\Debug\net8.0\refint\startC.dll
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\obj\Debug\net8.0\startC.pdb
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\obj\Debug\net8.0\startC.genruntimeconfig.cache
+D:\OneDrive\Документы\ВУЗ 3 курс\CCCCCCC\startC\obj\Debug\net8.0\ref\startC.dll
